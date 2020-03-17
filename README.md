@@ -2,8 +2,12 @@ Sumário:
 ========
 
 - [Grupo](#grupo)
+- [Links](#links)
 - [Diagramas](#diagramas)
   1. [Tabela Canvas](#tabela-canvas)
+  2. [Conceitos Iniciais](#conceitos-iniciais-do-site)
+
+-------------------------------------------------------------------------------
 
 # Grupo
 
@@ -17,8 +21,21 @@ Sumário:
 
 -------------------------------------------------------------------------------
 
+# Links
+
+- [Trello](https://trello.com/b/rQ9d7zP6/eng-software) - Kanban com a organização das tarefas
+- [Site](https://12pedro07.github.io) - Link de facil acesso ao site hospedado no próprio github
+-------------------------------------------------------------------------------
+
 # Diagramas 
 
 ## Tabela Canvas
 
 ![Tabela Canvas](/imagensEdiagramas/TabelaCanvas.jpg)
+
+## Conceitos iniciais do site
+
+
+|   Conceito da Home   |  Conceito das sub-páginas:  |
+|   :---:   |  :---: |
+|  ![Home Page](/imagensEdiagramas/Layout%20Homepage.png)  |  ![Pagina de um algoritmo](/imagensEdiagramas/Layout%20Merge%20Subpage.png)  |
