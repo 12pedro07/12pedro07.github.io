@@ -1,4 +1,11 @@
-# Engenharia de Software
+Sumário:
+========
+
+- [Grupo](#grupo)
+- [Diagramas](#diagramas)
+  1. [Tabela Canvas](#tabela-canvas)
+
+# Grupo
 
 |   Cargo   |  Nome  |  R.A.  |
 |   :---:   |  :---: |  :---: |
@@ -8,9 +15,10 @@
 |  Dev. Team  |  Kaike Rodrigues Zuanetti  |  22.118.116-7  |
 |  Dev. Team  |  Felipe Maciel de Sousa  |  22.218.042-4  |
 
+-------------------------------------------------------------------------------
 
-## Diagramas:
+# Diagramas 
 
-### 1. Tabela Canvas
+## Tabela Canvas
 
 ![Tabela Canvas](/imagensEdiagramas/TabelaCanvas.jpg)
