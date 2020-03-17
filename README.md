@@ -11,6 +11,6 @@
 
 ## Diagramas:
 
-# 1. Tabela Canvas
+### 1. Tabela Canvas
 
-![Tabela Canvas](/imagensEdiagramas/tabelaCanvas.jpg?raw=true)
+![Tabela Canvas](/imagensEdiagramas/TabelaCanvas.jpg)
