@@ -69,11 +69,15 @@ Sumário:
 ### DFD
 
   O DFD (Diagrama de Fluxo de Dados) é responsavel por auxiliar a visualização do fluxo dos dados em meio ao processo do software desenvolvido. Este diagrama possui diversos níveis (iniciando de zero) e quanto maior este nível, mais refinada é a informação contida no diagrama.
+  
+|   Nível 0   |  Nível 1  |
+|   :---:   |  :---: |
+|  ![DFD0](/imagensEdiagramas/DFD0.jpg)  |  ![DFD1](/imagensEdiagramas/DFD1.jpg)  |
 
 ### Conceitos iniciais do site
 
   Aqui estão os diagramas de como foi pensado a construção e estrutura do site.
 
-|   Conceito da Home   |  Conceito das sub-páginas:  |
+|   Conceito da Home   |  Conceito das sub-páginas  |
 |   :---:   |  :---: |
 |  ![Home Page](/imagensEdiagramas/Layout%20Homepage.png)  |  ![Pagina de um algoritmo](/imagensEdiagramas/Layout%20Merge%20Subpage.png)  |
