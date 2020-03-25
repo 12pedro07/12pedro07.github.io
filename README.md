@@ -74,6 +74,12 @@ Sumário:
 |   :---:   |  :---: |
 |  ![DFD0](/imagensEdiagramas/DFD0.jpg)  |  ![DFD1](/imagensEdiagramas/DFD1.jpg)  |
 
+|   Nível 2 - Refina página do algoritmo   |
+|   :---:   |
+|  ![DFD2](/imagensEdiagramas/DFD2_pagAlgo.jpg)  |
+
+
+
 ### Conceitos iniciais do site
 
   Aqui estão os diagramas de como foi pensado a construção e estrutura do site.
