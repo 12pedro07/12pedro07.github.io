@@ -3,7 +3,6 @@ Sumário:
 
 - [Grupo](#grupo)
 - [Links](#links)
-- [Bibliografia Utilizada](#bibliografia)
 - [Introdução](#introdução)
 - [Desenvolvimento](#desenvolvimento)
   1. [Requisitos](#requisitos)
@@ -11,6 +10,8 @@ Sumário:
   3. [Planejamento](#planejamento)
       * [DFD](#dfd)
       * [Conceitos Iniciais](#conceitos-iniciais-do-site)
+- [Bibliografia Utilizada](#bibliografia)
+- [Imagens](#imagens-externas-utilizadas)
 
 -------------------------------------------------------------------------------
 
@@ -31,10 +32,6 @@ Sumário:
 - [Trello](https://trello.com/b/rQ9d7zP6/eng-software) - Kanban com a organização das tarefas
 - [Site](https://12pedro07.github.io) - Link de facil acesso ao site hospedado no próprio github
 - [Forms](https://docs.google.com/forms/d/1uBkIgZ2C1a4m5CCoAonrmNfk55EAgYLl1q4AhJtLzbQ/edit#responses) - Dados coletados via google forms
-
-# Bibliografia
-
-- [Canvas Sebrae](https://www.sebraecanvas.com/#/) - Consultado em 03/03/2020
 
 -------------------------------------------------------------------------------
 
@@ -78,7 +75,7 @@ Sumário:
 |   :---:   |
 |  ![DFD2](/imagensEdiagramas/DFD2_pagAlgo.jpg)  |
 
-
+-------------------------------------------------------------------------------
 
 ### Conceitos iniciais do site
 
@@ -87,3 +84,13 @@ Sumário:
 |   Conceito da Home   |  Conceito das sub-páginas  |
 |   :---:   |  :---: |
 |  ![Home Page](/imagensEdiagramas/Layout%20Homepage.png)  |  ![Pagina de um algoritmo](/imagensEdiagramas/Layout%20Merge%20Subpage.png)  |
+
+
+# Bibliografia
+
+- [Canvas Sebrae](https://www.sebraecanvas.com/#/) - Consultado em 03/03/2020
+
+# Imagens externas utilizadas
+
+- [GIF - quicksort](https://en.wikipedia.org/wiki/Quicksort) - Consultado em 27/03/2020
+- [GIF - quicksort (partição)](https://gfycat.com/pleasantcloseeyelashpitviper) - Consultado em 26/03
