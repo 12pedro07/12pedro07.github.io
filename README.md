@@ -5,9 +5,10 @@ Sumário:
 - [Links](#links)
 - [Introdução](#introdução)
 - [Desenvolvimento](#desenvolvimento)
-  1. [Requisitos](#requisitos)
-  2. [Tabela Canvas](#tabela-canvas)
-  3. [Planejamento](#planejamento)
+  1. [Sprints](#sprints)
+  2. [Requisitos](#requisitos)
+  3. [Tabela Canvas](#tabela-canvas)
+  4. [Planejamento](#planejamento)
       * [DFD](#dfd)
       * [Conceitos Iniciais](#conceitos-iniciais-do-site)
 - [Bibliografia Utilizada](#bibliografia)
@@ -46,6 +47,24 @@ Sumário:
 -------------------------------------------------------------------------------
 
 # Desenvolvimento
+
+## Sprints
+  
+  Todas as sprints podem ser acompanhadas no [Trello](https://trello.com/b/rQ9d7zP6/eng-software), mas estão também aqui resumidas.
+  
+  ### Primeira Sprint (04/03 ~ 18/03)
+  
+  Realizamos na primeira sprint a montagem dos primeiros diagramas de desenvolvimento, preparamos também um modelo de design inicial que utilizaremos como base para as sprints decorrentes.
+  
+  ### Segunda Sprint (18/03 ~ 01/04)
+  
+  Na segunda Sprint pesquisamos e escrevemos a teoria relativa a cada um dos algoritmos, para que seja realizada a montagem das páginas no site, como pode ser identificado no DFD nível 2 que refina "página do algoritmo".
+  
+  ### Terceira Sprint (01/04 ~ 15/04)
+  
+  ### Quarta Sprint (15/04 ~ 29/04)
+  
+  ### Quinta Sprint (29/04 ~ 13/05)
 
 ## Requisitos
 
