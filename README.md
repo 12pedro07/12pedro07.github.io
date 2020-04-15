@@ -62,6 +62,8 @@ Sumário:
   
   ### Terceira Sprint (01/04 ~ 15/04)
   
+  Na terceira Sprint terminamos a escrita que foi iniciada na segunda sprint, juntamos imagens, gifs e demais arquivos necessários para o site. Junto a isso, começamos a realizar a montagem dos diagramas de teste.
+  
   ### Quarta Sprint (15/04 ~ 29/04)
   
   ### Quinta Sprint (29/04 ~ 13/05)
