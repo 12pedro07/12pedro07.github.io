@@ -10,6 +10,7 @@ Sumário:
   3. [Tabela Canvas](#tabela-canvas)
   4. [Planejamento](#planejamento)
       * [DFD](#dfd)
+      * [MER](#mer)
       * [Conceitos Iniciais](#conceitos-iniciais-do-site)
 - [Bibliografia Utilizada](#bibliografia)
 - [Imagens](#imagens-externas-utilizadas)
@@ -95,6 +96,14 @@ Sumário:
 |   Nível 2 - Refina página do algoritmo   |
 |   :---:   |
 |  ![DFD2](/imagensEdiagramas/DFD2_pagAlgo.jpg)  |
+
+-------------------------------------------------------------------------------
+
+### MER
+
+  O MER ou Diagrama de Entidade-Relacionamento é responsável por indicar como as entidades do projeto devem interagir entre sí, para o nosso propósito, utilizamos o MER para mostrar que, por exemplo, o usuário está conectado com a página de simulação com a relação de 1:N, ou seja, qualquer quantidade N de usuários pode acessar a 1 mesma pagina de simulação.
+  
+![MER](/imagensEdiagramas/MER.png)
 
 -------------------------------------------------------------------------------
 
