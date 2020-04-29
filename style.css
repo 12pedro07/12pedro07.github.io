@@ -21,18 +21,39 @@ body{
   text-align: center;
   font-family: Verdana;
   font-size: 20px;
-  padding-top: 10px;
+  
   
 }
 
+#titulo_2 {
+  color: white;
+  text-align: center;
+  font-family: Verdana;
+  font-size: 20px;
+  padding-top: 60px;
+  
+}
+
+#simulacao{
+  width: 1000px;
+  height: 750px;
+  margin-left: 100px;
+}
 
 #img2{
   padding-top: 2px;
   width: 100%;
   height: 300px;
 }
+
+
+#img-texto{
+  align-content: center;
+}
+
 #principal1{
-  
+  width:900px;
+  text-align: center;
   margin: 0;
   color: white;
   position: absolute;
@@ -53,6 +74,8 @@ body{
 }
 
 #principal2{
+  width:900px;
+  text-align: center;
   margin: 0;
   color: white;
   position: absolute;
@@ -68,15 +91,104 @@ body{
   border-radius: 20px;
 }
 
+#principal3{
+  width:900px;
+  text-align: center;
+  margin: 0;
+  color: white;
+  position: absolute;
+  top:185%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  font-family: Verdana;
+  font-size: 40px;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: rgb(25, 158, 219);
+  border: 10px solid rgb(62, 161, 248);
+  border-radius: 20px;
+  
+}
+
+
+#principal4{
+  width:900px;
+  text-align: center;
+  margin: 0;
+  color: white;
+  position: absolute;
+  top:230%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  font-family: Verdana;
+  font-size: 40px;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: rgb(25, 158, 219);
+  border: 10px solid rgb(62, 161, 248);
+  border-radius: 20px;
+  margin-bottom: 150px;
+}
+
+#explicacao{
+  padding-top: 20px;
+  margin: 15px;
+  width: 900px;
+  height: 200px;
+  font-display: Arial;
+  text-align: left;
+  font-size: 18px;
+  padding-left: 90px;
+}
+
+#caixa-texto{
+  border-radius: 20px;
+  background-color: white;
+  height: 1400px;
+  width: 1100px;
+  margin-left: 60px;
+}
+
+#caixa-texto_merge{
+  border-radius: 20px;
+  background-color: white;
+  height: 1400px;
+  width: 1100px;
+  margin-left: 60px;
+}
+
+#caixa-texto_buble{
+  border-radius: 20px;
+  background-color: white;
+  height: 750px;
+  width: 1100px;
+  margin-left: 60px;
+}
+
+#caixa-texto_insertion{
+  border-radius: 20px;
+  background-color: white;
+  height: 450px;
+  width: 1100px;
+  margin-left: 60px;
+}
+
+
+#caixa-texto_quick{
+  border-radius: 20px;
+  background-color: white;
+  height: 1400px;
+  width: 1100px;
+  margin-left: 60px;
+}
+
+
 #cabecalho{
   position: absolute;
   bottom: 5%;
   color: white;
   text-align: center;
 }
-
-
-
 
 ul {
   list-style-type: none;
@@ -105,4 +217,9 @@ li a:hover:not(.active) {
 
 .active {
   background-color: gray;
+}
+
+#rodape{
+  color:'white';
+  
 }
