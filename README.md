@@ -12,6 +12,9 @@ Sumário:
       * [DFD](#dfd)
       * [MER](#mer)
       * [Conceitos Iniciais](#conceitos-iniciais-do-site)
+  5. Ponto de função(#ponto-de-função)
+      * [Fator Complexidade](###Fator-Complexidade)
+      * [Fator Ajuste](###Fator-Ajuste)
 - [Bibliografia Utilizada](#bibliografia)
 - [Imagens](#imagens-externas-utilizadas)
 
@@ -115,9 +118,21 @@ Sumário:
 |   :---:   |  :---: |
 |  ![Home Page](/imagensEdiagramas/Layout%20Homepage.png)  |  ![Pagina de um algoritmo](/imagensEdiagramas/Layout%20Merge%20Subpage.png)  |
 
-### Ponto de função
+## Ponto de função
 
-##Fator de ajuste
+### Fator de complexidade
+
+|      Fatores de complexidade     |         |    |       |   |          |   |          |
+|:--------------------------------:|:-------:|:--:|:-----:|:-:|:--------:|:-:|:--------:|
+|                                  | Simples |    | Media |   | Complexa |   | SubTotal |
+|  Número de entradas de usuários  |    3    |  0 |   4   | 0 | 6        | 0 |     0    |
+|  Número   de saídas de usuários  |    4    |  0 |   5   | 0 |     7    | 0 |     0    |
+|             Consultas            |    3    |  5 |   4   | 0 |     6    | 0 |    15    |
+|             Arquivos             |    7    | 10 |   10  | 0 |    15    | 0 |    70    |
+|       Interfaces   externas      |    5    |  0 |   7   | 0 |    10    | 0 |     0    |
+| Total de fatores de complexidade |         |    |       |   |          |   |    85    |
+
+### Fator de ajuste
 
 | Fatores de Ajuste            | Grau de Interferência |
 |------------------------------|-----------------------|
@@ -136,6 +151,11 @@ Sumário:
 | Portabilidade                | 0                     |
 | Manutenibilidade             | 0                     |
 | Total dos Fatores de Ajuste  | 15                    |
+ 
+ totalizando 68 pontos de função.
+ 
+ Considerando a produtividade de 5 PF/dia temos um prazo de 13,6 dias
+  
 
 
 # Bibliografia
