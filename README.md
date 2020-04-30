@@ -136,23 +136,23 @@ Sumário:
 ### Fator de ajuste
 O fator ajuste vai de 0 nehuma inteferencia para 5 muita inteferencia.
 
-| Fatores de Ajuste            | Grau de Interferência |
-|------------------------------|-----------------------|
-| Backup                       | 0                     | Não temos nenhum backup do site
-| Comunicação                  | 0                     | Não capturamos nenhum dado online
-| Processamento distribuído    | 0                     | O projeto não utiliza multiplas CPUs 
-| Desempenho                   | 5                     | O tempo de resposta e bom nas épocas de pico.
-| Ambiente operacional         | 0                     | Não existe restrições operacionais
-| Entradas on-line             | 1                     | A unica entrada do usuario e a escolha da consulta
-| Telas/operações múltiplas on | 5                     | Varios usuarios podem usar o sistema ao mesmo tempo
-| Atualização/recuperação de a | 1                     | A atualização dos dados só sera feita caso aja interresse em novos conteudos
-| Entrada/saída/consulta compl | 1                     | Picos so ocorreram nas épocas das P2
-| Processamento complexo       | 1                     | Sistema baseado só em consultas
-| Código reutilizável          | 5                     | Sistema projetado para ser mpv* e pode ser aprimorado e reutilizavel
-| Converão e instalação        | 0                     | não há conversão de dados e nem atualizção constante de versão
-| Portabilidade                | 0                     | se utiliza do navegador e esta adequado a qualquer sistema 
-| Manutenibilidade             | 0                     | nenhum requisito para minimizar ou facilitar mudanças
-| Total dos Fatores de Ajuste  | 15                    |
+| Fatores de Ajuste            | Grau de Interferência |                                                                               |
+|------------------------------|-----------------------|:-----------------------------------------------------------------------------:|
+| Backup                       | 0                     | Não temos nenhum backup do site                                               | 
+| Comunicação                  | 0                     | Não capturamos nenhum dado online|
+| Processamento distribuído    | 0                     | O projeto não utiliza multiplas CPUs| 
+| Desempenho                   | 5                     | O tempo de resposta e bom nas épocas de pico.|
+| Ambiente operacional         | 0                     | Não existe restrições operacionais|
+| Entradas on-line             | 1                     | A unica entrada do usuario e a escolha da consulta|
+| Telas/operações múltiplas on | 5                     | Varios usuarios podem usar o sistema ao mesmo tempo|
+| Atualização/recuperação de a | 1                     | A atualização dos dados só sera feita caso aja interresse em novos conteudos|
+| Entrada/saída/consulta compl | 1                     | Picos so ocorreram nas épocas das P2|
+| Processamento complexo       | 1                     | Sistema baseado só em consultas|
+| Código reutilizável          | 5                     | Sistema projetado para ser mpv* e pode ser aprimorado e reutilizavel|
+| Converão e instalação        | 0                     | não há conversão de dados e nem atualizção constante de versão|
+| Portabilidade                | 0                     | se utiliza do navegador e esta adequado a qualquer sistema |
+| Manutenibilidade             | 0                     | nenhum requisito para minimizar ou facilitar mudanças|
+| Total dos Fatores de Ajuste  | 15                    |                                                                               |
  
  totalizando 68 pontos de função.
  
