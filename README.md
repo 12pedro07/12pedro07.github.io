@@ -117,27 +117,25 @@ Sumário:
 
 ### Ponto de função
 
-|    Fatores de Ajuste              |Grau de Interferência|              
-                                                                   
-|1. | Backup                          |0|                             
-|2. | Comunicação                     |0|                           
-|3. | Processamento distribuído       |0|                           
-|4. | Desempenho                      |5|                          
-|5. | Ambiente operacional            |0|                         
-|6. | Entradas on-line                |1|
-|7. | Telas/operações múltiplas on    |5|
-|8. | Atualização/recuperação de a    |1|
-|9. | Entrada/saída/consulta compl    |1|
-|10.| Processamento complexo          |1|
-|11.| Código reutilizável             |5|
-|12.| Converão e instalação           |0|
-|13.| Portabilidade                   |0|
-|14.| Manutenibilidade                |0|
-|   |Total dos Fatores de Ajuste|     |15|
+##Fator de ajuste
 
-
-
-|    |           |Total de pontos|        |68|
+| Fatores de Ajuste            | Grau de Interferência |
+|------------------------------|-----------------------|
+| Backup                       | 0                     |
+| Comunicação                  | 0                     |
+| Processamento distribuído    | 0                     |
+| Desempenho                   | 5                     |
+| Ambiente operacional         | 0                     |
+| Entradas on-line             | 1                     |
+| Telas/operações múltiplas on | 5                     |
+| Atualização/recuperação de a | 1                     |
+| Entrada/saída/consulta compl | 1                     |
+| Processamento complexo       | 1                     |
+| Código reutilizável          | 5                     |
+| Converão e instalação        | 0                     |
+| Portabilidade                | 0                     |
+| Manutenibilidade             | 0                     |
+| Total dos Fatores de Ajuste  | 15                    |
 
 
 # Bibliografia
