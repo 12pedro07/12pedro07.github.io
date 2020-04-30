@@ -123,15 +123,15 @@ Sumário:
 
 ### Fator de complexidade
 
-|      Fatores de complexidade     |         |    |       |   |          |   |          |
-|:--------------------------------:|:-------:|:--:|:-----:|:-:|:--------:|:-:|:--------:|
-|                                  | Simples |    | Media |   | Complexa |   | SubTotal |
-|  Número de entradas de usuários  |    3    |  0 |   4   | 0 | 6        | 0 |     0    |
-|  Número   de saídas de usuários  |    4    |  0 |   5   | 0 |     7    | 0 |     0    |
-|             Consultas            |    3    |  5 |   4   | 0 |     6    | 0 |    15    | há 5 paginas no site 
-|             Arquivos             |    7    | 10 |   10  | 0 |    15    | 0 |    70    | há 10 arquivos,5 inmagens e 5 gifs
-|       Interfaces   externas      |    5    |  0 |   7   | 0 |    10    | 0 |     0    |
-| Total de fatores de complexidade |         |    |       |   |          |   |    85    |
+|      Fatores de complexidade     |         |    |       |   |          |   |          |                                   |
+|:--------------------------------:|:-------:|:--:|:-----:|:-:|:--------:|:-:|:--------:|:---------------------------------:|
+|                                  | Simples |    | Media |   | Complexa |   | SubTotal |                                   |
+|  Número de entradas de usuários  |    3    |  0 |   4   | 0 | 6        | 0 |     0    |                                   |
+|  Número   de saídas de usuários  |    4    |  0 |   5   | 0 |     7    | 0 |     0    |                                   |     
+|             Consultas            |    3    |  5 |   4   | 0 |     6    | 0 |    15    | há 5 paginas no site              |
+|             Arquivos             |    7    | 10 |   10  | 0 |    15    | 0 |    70    | há 10 arquivos,5 inmagens e 5 gifs|
+|       Interfaces   externas      |    5    |  0 |   7   | 0 |    10    | 0 |     0    |                                   |
+| Total de fatores de complexidade |         |    |       |   |          |   |    85    |                                   |
 
 ### Fator de ajuste
 O fator ajuste vai de 0 nehuma inteferencia para 5 muita inteferencia.
