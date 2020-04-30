@@ -94,7 +94,7 @@ Sumário:
   
 |   Nível 0   |  Nível 1  |
 |   :---:   |  :---: |
-|  ![DFD0](/imagensEdiagramas/DFD0.jpg)  |  ![DFD1](/imagensEdiagramas/DFD1.jpg)  |
+|  ![DFD0](imagensEdiagramas/DFDs v2 nivel 0.png)  |  ![DFD1](imagensEdiagramas/DFDs nivel 1 v2.png)  |
 
 |   Nível 2 - Refina página do algoritmo   |
 |   :---:   |
