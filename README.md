@@ -119,6 +119,7 @@ Sumário:
 |  ![Home Page](/imagensEdiagramas/Layout%20Homepage.png)  |  ![Pagina de um algoritmo](/imagensEdiagramas/Layout%20Merge%20Subpage.png)  |
 
 ## Ponto de função
+  O ponto de função e uma metrica utilizada para podermos prever a quantidade de esforço e tempo necessario para um projeto,se utilizando do fator complexidade demonstra a dificuldade do projeto e o fator ajuste que deixa em foco as prioridades do projeto.
 
 ### Fator de complexidade
 
@@ -127,34 +128,37 @@ Sumário:
 |                                  | Simples |    | Media |   | Complexa |   | SubTotal |
 |  Número de entradas de usuários  |    3    |  0 |   4   | 0 | 6        | 0 |     0    |
 |  Número   de saídas de usuários  |    4    |  0 |   5   | 0 |     7    | 0 |     0    |
-|             Consultas            |    3    |  5 |   4   | 0 |     6    | 0 |    15    |
-|             Arquivos             |    7    | 10 |   10  | 0 |    15    | 0 |    70    |
+|             Consultas            |    3    |  5 |   4   | 0 |     6    | 0 |    15    | há 5 paginas no site 
+|             Arquivos             |    7    | 10 |   10  | 0 |    15    | 0 |    70    | há 10 arquivos,5 inmagens e 5 gifs
 |       Interfaces   externas      |    5    |  0 |   7   | 0 |    10    | 0 |     0    |
 | Total de fatores de complexidade |         |    |       |   |          |   |    85    |
 
 ### Fator de ajuste
+O fator ajuste vai de 0 nehuma inteferencia para 5 muita inteferencia.
 
 | Fatores de Ajuste            | Grau de Interferência |
 |------------------------------|-----------------------|
-| Backup                       | 0                     |
-| Comunicação                  | 0                     |
-| Processamento distribuído    | 0                     |
-| Desempenho                   | 5                     |
-| Ambiente operacional         | 0                     |
-| Entradas on-line             | 1                     |
-| Telas/operações múltiplas on | 5                     |
-| Atualização/recuperação de a | 1                     |
-| Entrada/saída/consulta compl | 1                     |
-| Processamento complexo       | 1                     |
-| Código reutilizável          | 5                     |
-| Converão e instalação        | 0                     |
-| Portabilidade                | 0                     |
-| Manutenibilidade             | 0                     |
+| Backup                       | 0                     | Não temos nenhum backup do site
+| Comunicação                  | 0                     | Não capturamos nenhum dado online
+| Processamento distribuído    | 0                     | O projeto não utiliza multiplas CPUs 
+| Desempenho                   | 5                     | O tempo de resposta e bom nas épocas de pico.
+| Ambiente operacional         | 0                     | Não existe restrições operacionais
+| Entradas on-line             | 1                     | A unica entrada do usuario e a escolha da consulta
+| Telas/operações múltiplas on | 5                     | Varios usuarios podem usar o sistema ao mesmo tempo
+| Atualização/recuperação de a | 1                     | A atualização dos dados só sera feita caso aja interresse em novos conteudos
+| Entrada/saída/consulta compl | 1                     | Picos so ocorreram nas épocas das P2
+| Processamento complexo       | 1                     | Sistema baseado só em consultas
+| Código reutilizável          | 5                     | Sistema projetado para ser mpv* e pode ser aprimorado e reutilizavel
+| Converão e instalação        | 0                     | não há conversão de dados e nem atualizção constante de versão
+| Portabilidade                | 0                     | se utiliza do navegador e esta adequado a qualquer sistema 
+| Manutenibilidade             | 0                     | nenhum requisito para minimizar ou facilitar mudanças
 | Total dos Fatores de Ajuste  | 15                    |
  
  totalizando 68 pontos de função.
  
  Considerando a produtividade de 5 PF/dia temos um prazo de 13,6 dias
+ 
+ * mpv é o minimo produtudo viavel que significa que esse produto é o minimo possivel para ele poder ser viavel para solucionar o proplema que se propõe a resolver.
   
 
 
