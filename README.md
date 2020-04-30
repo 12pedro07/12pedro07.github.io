@@ -12,7 +12,7 @@ Sumário:
       * [DFD](#dfd)
       * [MER](#mer)
       * [Conceitos Iniciais](#conceitos-iniciais-do-site)
-  5. Ponto de função(#ponto-de-função)
+  5. [Ponto de função](#ponto-de-função)
       * [Fator Complexidade](###Fator-Complexidade)
       * [Fator Ajuste](###Fator-Ajuste)
 - [Bibliografia Utilizada](#bibliografia)
