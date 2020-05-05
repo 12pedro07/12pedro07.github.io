@@ -70,7 +70,11 @@ Sumário:
   
   ### Quarta Sprint (15/04 ~ 29/04)
   
+  Na quarta Sprint foi feito calculo do ponto de função, com seus respectivos fatores. O dev team integrou ao site os textos pesquisados e escritos para cada algoritmo, criando uma página para cada um destes e realizando o direcionamento destas apartir da home.
+  
   ### Quinta Sprint (29/04 ~ 13/05)
+
+
 
 ## Requisitos
 
