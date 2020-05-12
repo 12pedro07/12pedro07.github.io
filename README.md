@@ -131,11 +131,11 @@ Sumário:
 |:--------------------------------:|:-------:|:--:|:-----:|:-:|:--------:|:-:|:--------:|:---------------------------------:|
 |                                  | Simples |    | Media |   | Complexa |   | SubTotal |                                   |
 |  Número de entradas de usuários  |    3    |  0 |   4   | 0 | 6        | 0 |     0    |                                   |
-|  Número   de saídas de usuários  |    4    |  0 |   5   | 0 |     7    | 0 |     0    |                                   |     
+|  Número   de saídas de usuários  |    4    | 10 |   5   | 0 |     7    | 0 |     0    |                                   |     
 |             Consultas            |    3    |  5 |   4   | 0 |     6    | 0 |    15    | há 5 paginas no site              |
 |             Arquivos             |    7    | 10 |   10  | 0 |    15    | 0 |    70    | há 10 arquivos,5 imagens e 5 gifs |
-|       Interfaces   externas      |    5    |  0 |   7   | 0 |    10    | 0 |     0    |                                   |
-| Total de fatores de complexidade |         |    |       |   |          |   |    85    |                                   |
+|       Interfaces   externas      |    5    |  0 |   7   | 1 |    10    | 0 |     0    |                                   |
+| Total de fatores de complexidade |         |    |       |   |          |   |    97    |                                   |
 
 ### Fator de ajuste
 O fator ajuste vai de 0 nehuma inteferencia para 5 muita inteferencia.
@@ -156,11 +156,11 @@ O fator ajuste vai de 0 nehuma inteferencia para 5 muita inteferencia.
 | Converão e instalação        | 0                     | não há conversão de dados e nem atualizção constante de versão|
 | Portabilidade                | 0                     | se utiliza do navegador e esta adequado a qualquer sistema |
 | Manutenibilidade             | 0                     | nenhum requisito para minimizar ou facilitar mudanças|
-| Total dos Fatores de Ajuste  | 15                    |                                                                               |
+| Total dos Fatores de Ajuste  | 19                    |                                                                               |
  
- totalizando 68 pontos de função.
+ totalizando 81 pontos de função.
  
- Considerando a produtividade de 5 PF/dia temos um prazo de 13,6 dias
+ Considerando a produtividade de 5 PF/dia temos um prazo de 16 dias
  
  * mpv é o minimo produtudo viavel que significa que esse produto é o minimo possivel para ele poder ser viavel para solucionar o proplema que se propõe a resolver.
   
