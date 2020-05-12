@@ -74,7 +74,7 @@ Sumário:
   
   ### Quinta Sprint (29/04 ~ 13/05)
 
-
+  A quinta e ultima Sprint constituiu-se da finalização do site, integração da simulação, realização do teste de caixa branca e conclusão da documentação presente neste arquivo.
 
 ## Requisitos
 
@@ -169,6 +169,7 @@ O fator ajuste vai de 0 nehuma inteferencia para 5 muita inteferencia.
 # Bibliografia
 
 - [Canvas Sebrae](https://www.sebraecanvas.com/#/) - Consultado em 03/03/2020
+- [DFD](https://medium.com/@volodymyrbilyk/data-flow-diagrams-dfd-explained-24cb620f9040) - Consultado em 02/04
 
 # Imagens externas utilizadas
 
