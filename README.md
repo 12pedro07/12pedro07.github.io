@@ -98,11 +98,11 @@ Sumário:
   
 |   Nível 0   |  Nível 1  |
 |   :---:   |  :---: |
-|  ![DFD0](imagensEdiagramas/DFDsNivel0v2.png)  |  ![DFD1](imagensEdiagramas/DFDsNivel1v2.png)  |
+|  ![DFD0](imagensEdiagramas/DFDsNivel0v2.png)  |  ![DFD1](imagensEdiagramas/DFD1v2.png)  |
 
-|   Nível 2 - Refina página do algoritmo   |   Nível 2 - Refina página Inicial   |
+|   Nível 2 - Refina página do algoritmo   |
 |   :---:   |   :---:   |
-|  ![DFD2](/imagensEdiagramas/DFD2_pagAlgo.jpg)  |  ![DFD2](/imagensEdiagramas/DFD2_PagInicial.jpg)  |
+|  ![DFD2](/imagensEdiagramas/DFD2pagAlgo.jpg)  |
 
 -------------------------------------------------------------------------------
 
