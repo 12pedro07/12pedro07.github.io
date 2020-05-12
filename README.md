@@ -42,9 +42,9 @@ Sumário:
 
 # Introdução
 
-   O intuito deste trabalho é aprender e aplicar conceitos de engenharia de software e metodologia ágil. Assim sendo, devemos desenvolver um projeto que aplique os conceitos aprendidos ao decorrer de seu desenvolvimento.
+   O intuito deste trabalho é aprender e aplicar conceitos de engenharia de software e metodologia ágil. Assim sendo, devemos desenvolver um projeto que aplique os conceitos aprendidos ao decorrer do semestre letivo.
    
-   Nosso projeto constitui-se na construção de um site chamado "Passei no Guilherme!", o qual possui foco acadêmico e objetivo de auxilio a professores e principalmente alunos. Nosso foco é criar uma plataforma na qual alunos possam compreender o conteúdo de disciplinas como análise e complexidade, algoritmos e estrutura de dados de forma completa, interativa e visual, para que a compreensão de conceitos abstratos e normalmente de dificil compreensão para a maioria dos estudantes, torne-se mais interessante e simples.
+   Nosso projeto constitui-se na construção de um site chamado "Passei no Guilherme!", o qual possui foco acadêmico e objetivo de auxilio a professores e principalmente alunos. Nosso foco é criar uma plataforma na qual alunos possam compreender o conteúdo da disciplina de análise e complexidade de algoritmos de forma completa, interativa e visual, para que a compreensão de conceitos abstratos e normalmente de dificil compreensão para a maioria dos estudantes, torne-se mais interessante e simples.
    
    O site sera hospedado no GitHub e desenvolvido utilizando HTML, CSS e Java Script.
   
@@ -66,7 +66,7 @@ Sumário:
   
   ### Terceira Sprint (01/04 ~ 15/04)
   
-  Na terceira Sprint terminamos a escrita que foi iniciada na segunda sprint, juntamos imagens, gifs e demais arquivos necessários para o site e iniciamos a programação e modelagem do site. Junto a isso, começamos a realizar a montagem dos diagramas de teste.
+  Na terceira Sprint terminamos a escrita que foi iniciada na segunda sprint, juntamos imagens, gifs e demais arquivos necessários para o site e iniciamos a programação e modelagem deste. Junto a isso, começamos a realizar a montagem dos diagramas de teste.
   
   ### Quarta Sprint (15/04 ~ 29/04)
   
@@ -78,7 +78,7 @@ Sumário:
 
 ## Requisitos
 
-  O primeiro passo do desenvolvimento foi o levantamento dos requisitos, para isso foram criadas 8 perguntas que nos auxiliaram a compreender as preferencias dos clientes. Estas foram disponibilizadas via [google forms](#links) para serem preenchidas em escala likert e por foi o formulario criado foi divulgado com auxilio do professor Guilherme Wachs.
+  O primeiro passo do desenvolvimento foi o levantamento dos requisitos, para isso foram criadas 8 perguntas que nos auxiliaram a compreender as preferencias do nicho dos clientes. Estas foram disponibilizadas via [google forms](#links) para serem preenchidas em escala likert, o formulario criado foi divulgado com auxilio do professor Guilherme Wachs.
 
 ## Tabela Canvas
 
@@ -108,7 +108,7 @@ Sumário:
 
 ### MER
 
-  O MER ou Diagrama de Entidade-Relacionamento é responsável por indicar como as entidades do projeto devem interagir entre sí, para o nosso propósito, utilizamos o MER para mostrar que, por exemplo, o usuário está conectado com a página de simulação com a relação de 1:N, ou seja, qualquer quantidade N de usuários pode acessar a 1 mesma pagina de simulação.
+  O MER ou Modelo Entidade-Relacionamento é responsável por indicar como as entidades do projeto devem interagir entre sí, para o nosso propósito, utilizamos o MER para mostrar informações como o fato de o usuário está conectado com a página de simulação com a relação de 1:N, ou seja, qualquer quantidade N de usuários pode acessar a 1 mesma pagina de simulação.
   
 ![MER](/imagensEdiagramas/MER.png)
 
@@ -116,7 +116,7 @@ Sumário:
 
 ### Conceitos iniciais do site
 
-  Aqui estão os diagramas de como foi pensado a construção e estrutura do site.
+  Aqui esta o diagrama inicial de como foi pensada a construção e estrutura do site.
 
 |   Conceito da Home   |  Conceito das sub-páginas  |
 |   :---:   |  :---: |
@@ -145,17 +145,17 @@ O fator ajuste vai de 0 nehuma inteferencia para 5 muita inteferencia.
 | Backup                       | 0                     | Não temos nenhum backup do site                                               | 
 | Comunicação                  | 0                     | Não capturamos nenhum dado online|
 | Processamento distribuído    | 0                     | O projeto não utiliza multiplas CPUs| 
-| Desempenho                   | 5                     | O tempo de resposta e bom nas épocas de pico.|
+| Desempenho                   | 5                     | O tempo de resposta é bom nas épocas de pico.|
 | Ambiente operacional         | 0                     | Não existe restrições operacionais|
-| Entradas on-line             | 1                     | A unica entrada do usuario e a escolha da consulta|
+| Entradas on-line             | 1                     | A única entrada do usuario e a escolha da consulta|
 | Telas/operações múltiplas on | 5                     | Varios usuarios podem usar o sistema ao mesmo tempo|
-| Atualização/recuperação de a | 1                     | A atualização dos dados só sera feita caso aja interresse em novos conteudos|
-| Entrada/saída/consulta compl | 1                     | Picos so ocorreram nas épocas das P2|
+| Atualização/recuperação de a | 1                     | A atualização dos dados só sera feita caso haja interresse em novos conteudos|
+| Entrada/saída/consulta compl | 1                     | Picos so ocorrem nas épocas de P2|
 | Processamento complexo       | 1                     | Sistema baseado só em consultas|
 | Código reutilizável          | 5                     | Sistema projetado para ser mpv* e pode ser aprimorado e reutilizavel|
-| Converão e instalação        | 0                     | não há conversão de dados e nem atualizção constante de versão|
-| Portabilidade                | 0                     | se utiliza do navegador e esta adequado a qualquer sistema |
-| Manutenibilidade             | 0                     | nenhum requisito para minimizar ou facilitar mudanças|
+| Converão e instalação        | 0                     | Não há conversão de dados e nem atualizção constante de versão|
+| Portabilidade                | 0                     | Se utiliza do navegador e esta adequado a qualquer sistema |
+| Manutenibilidade             | 0                     | Nenhum requisito para minimizar ou facilitar mudanças|
 | Total dos Fatores de Ajuste  | 19                    |                                                                               |
  
  totalizando 81 pontos de função.
