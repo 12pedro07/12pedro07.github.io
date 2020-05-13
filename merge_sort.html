@@ -25,8 +25,39 @@
     <main>
       <div id='caixa-texto_merge'>
       <p id='explicacao'>
-      
-      
+      Merge Sort Divide o Vetor em grupos de 2 elementos,se o número for impar tera um grupo com 1 único elemento ,e ele ordena esses grupos menores e depois vai sobrepondo os grupos ordenando eles no processo até chegar o vetor ordenado.<br>
+	 <br>
+<br>
+
+PseudoCodigo.<br>
+<br>
+Sort(A, p, r)<br>
+    if p < r then<br>
+        q = ((p + r) / 2)<br>
+        Sort(A, p, q)<br>
+        Sort(A, q + 1, r)<br>
+        Merge(A, p, q, r)<br>
+<br><br>
+Merge(A, p, q, r)<br>
+    n1 = q - p + 1<br><br>
+    n2 = r - q<br>
+    sejam L[1 ... n1 + 1] e R[1 ... n2 + 1]<br>
+    for i = 1 to n1<br>
+        L[i] = A[p + i - 1]<br>
+    for j = 1 to n2<br>
+        R[j] = A[q + j]<br>
+<br>
+    i = 1<br>
+    j = 1<br>
+<br>
+    for k = p to r<br>
+        if L[i] <= R[j] then A[k] = L[i]<br>
+            i = i + 1<br>
+        else A[k] = R[j]<br>
+            j = j + 1<br>
+<br>
+Segue uma imagem exemplificando a lógica.<br>
+      <img id="imagem_quick_1" src="imagem_1_merge.png" alt="titulo"  >
       </p>
       </div>  
 
@@ -34,7 +65,9 @@
         <h1> SIMULAÇÃO</h1>
       </div>
 
-      <div id='simulacao'>
+      <div>
+      <iframe id='simulacao' src="https://visualgo.net/pt/sorting">
+      </iframe>
       </div>
 
 

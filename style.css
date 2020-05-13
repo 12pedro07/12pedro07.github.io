@@ -37,7 +37,7 @@ body{
 #simulacao{
   width: 1000px;
   height: 750px;
-  margin-left: 100px;
+  margin-left: 140px;
 }
 
 #img2{
@@ -52,7 +52,7 @@ body{
 }
 
 #principal1{
-  width:900px;
+  width:600px;
   text-align: center;
   margin: 0;
   color: white;
@@ -63,7 +63,7 @@ body{
   margin-right: -50%;
   transform: translate(-50%, -50%);
   font-family: Verdana;
-  font-size: 40px;
+  font-size: 20px;
   
   -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: rgb(25, 158, 219);
@@ -74,17 +74,17 @@ body{
 }
 
 #principal2{
-  width:900px;
+  width:600px;
   text-align: center;
   margin: 0;
   color: white;
   position: absolute;
-  top:140%;
+  top:120%;
   left: 50%;
   margin-right: -50%;
   transform: translate(-50%, -50%);
   font-family: Verdana;
-  font-size: 40px;
+  font-size: 20px;
   -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: rgb(25, 158, 219);
   border: 10px solid rgb(62, 161, 248);
@@ -92,17 +92,17 @@ body{
 }
 
 #principal3{
-  width:900px;
+  width:600px;
   text-align: center;
   margin: 0;
   color: white;
   position: absolute;
-  top:185%;
+  top:145%;
   left: 50%;
   margin-right: -50%;
   transform: translate(-50%, -50%);
   font-family: Verdana;
-  font-size: 40px;
+  font-size: 20px;
   -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: rgb(25, 158, 219);
   border: 10px solid rgb(62, 161, 248);
@@ -112,17 +112,17 @@ body{
 
 
 #principal4{
-  width:900px;
+  width:600px;
   text-align: center;
   margin: 0;
   color: white;
   position: absolute;
-  top:230%;
+  top:170%;
   left: 50%;
   margin-right: -50%;
   transform: translate(-50%, -50%);
   font-family: Verdana;
-  font-size: 40px;
+  font-size: 20px;
   -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: rgb(25, 158, 219);
   border: 10px solid rgb(62, 161, 248);
@@ -146,7 +146,7 @@ body{
   background-color: white;
   height: 1400px;
   width: 1100px;
-  margin-left: 60px;
+  margin-left: 100px;
 }
 
 #caixa-texto_merge{
@@ -154,7 +154,7 @@ body{
   background-color: white;
   height: 1400px;
   width: 1100px;
-  margin-left: 60px;
+  margin-left: 100px;
 }
 
 #caixa-texto_buble{
@@ -162,7 +162,7 @@ body{
   background-color: white;
   height: 750px;
   width: 1100px;
-  margin-left: 60px;
+  margin-left: 100px;
 }
 
 #caixa-texto_insertion{
@@ -170,7 +170,7 @@ body{
   background-color: white;
   height: 450px;
   width: 1100px;
-  margin-left: 60px;
+  margin-left: 100px;
 }
 
 
@@ -179,7 +179,7 @@ body{
   background-color: white;
   height: 1400px;
   width: 1100px;
-  margin-left: 60px;
+  margin-left: 100px;
 }
 
 
@@ -222,4 +222,10 @@ li a:hover:not(.active) {
 #rodape{
   color:'white';
   
+}
+
+#imagem_quick_1{
+  padding-top: 20px;
+  margin-left: 100px;
+
 }
