@@ -15,6 +15,12 @@ Sumário:
   5. [Ponto de função](#ponto-de-função)
       * [Fator Complexidade](###Fator-Complexidade)
       * [Fator Ajuste](###Fator-Ajuste)
+- [Conclusão](#conclusão)
+  1. [Testes](#teste)
+    * [Caixa Preta](#caixa preta)
+    * [Matriz de teste](#matriz teste)
+    * [Caixa Branca](#caixa branca)
+  2. [Contos](#hist)  
 - [Bibliografia Utilizada](#bibliografia)
 - [Imagens](#imagens-externas-utilizadas)
 
