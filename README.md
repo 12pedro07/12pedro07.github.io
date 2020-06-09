@@ -174,6 +174,7 @@ O fator ajuste vai de 0 nehuma inteferencia para 5 muita inteferencia.
 ## Caixa Preta
   O teste de caixa preta visualiza o software como uma caixa na qual uma ou mais entradas são fornecidas, obtendo uma saída. Neste teste não há uma preocupação com o código fonte ou os componentes utilizados para o desenvolvimento, mas sim com as saídas devolvidas serem consistentes com a expectativa.
   Neste projeto, o teste de caixa preta foi utilizado na navegação do site e no uso do simulador dos algoritmos. Utilizando como entradas as páginas desejadas e algoritmos escolhidos para a simulação. O teste demonstrou o correto funcionamento do website.
+  ![Caixa Preta] (imagensEdiagramas/CaixaPreta.png)
 
 ## Caixa Branca
   O teste de caixa branca é uma forma de teste estrutural, que preocupa-se com as partes internas (componentes e código fonte) do projeto. Este é responsavel por validar por exemplo o fluxo de dados dentro do sistema.
