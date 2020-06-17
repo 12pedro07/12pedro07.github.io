@@ -183,6 +183,7 @@ O fator ajuste vai de 0 nehuma inteferencia para 5 muita inteferencia.
   | 2 |
 ### Caixa Branca
   O teste de caixa branca é uma forma de teste estrutural, que preocupa-se com as partes internas (componentes e código fonte) do projeto. Este é responsavel por validar por exemplo o fluxo de dados dentro do sistema.
+  
   ![Caixa Branca](/imagensEdiagramas/caixaBranca.png)
 
 # Bibliografia
