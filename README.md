@@ -176,9 +176,14 @@ O fator ajuste vai de 0 nehuma inteferencia para 5 muita inteferencia.
   Neste projeto, o teste de caixa preta foi utilizado na navegação do site e no uso do simulador dos algoritmos. Utilizando como entradas as páginas desejadas e algoritmos escolhidos para a simulação. O teste demonstrou o correto funcionamento do website.
   
   ![Caixa Preta](/imagensEdiagramas/CaixaPreta.png)
-
+### Matriz de Teste  
+  |   |
+  |---|
+  | 4 |
+  | 2 |
 ### Caixa Branca
   O teste de caixa branca é uma forma de teste estrutural, que preocupa-se com as partes internas (componentes e código fonte) do projeto. Este é responsavel por validar por exemplo o fluxo de dados dentro do sistema.
+  ![Caixa Branca](/imagensEdiagramas/CaixaBranca.png)
 
 # Bibliografia
 
