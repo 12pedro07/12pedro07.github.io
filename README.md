@@ -136,8 +136,8 @@ Sumário:
 |                                  | Simples |    | Media |   | Complexa |   | SubTotal |                                   |
 |  Número de entradas de usuários  |    3    |  0 |   4   | 0 | 6        | 0 |     0    |                                   |
 |  Número   de saídas de usuários  |    4    |  4 |   5   | 0 |     7    | 0 |     0    |                                   |     
-|             Consultas            |    3    |  1 |   4   | 0 |     6    | 0 |    15    | há 5 paginas no site              |
-|             Arquivos             |    7    |  0 |   10  | 0 |    15    | 0 |    70    | há 10 arquivos,5 imagens e 5 gifs |
+|             Consultas            |    3    |  1 |   4   | 0 |     6    | 0 |    15    |                                   |
+|             Arquivos             |    7    |  0 |   10  | 0 |    15    | 0 |    70    |                                   |
 |       Interfaces   externas      |    5    |  0 |   7   | 1 |    10    | 0 |     0    |                                   |
 | Total de fatores de complexidade |         |    |       |   |          |   |    26    |                                   |
 
